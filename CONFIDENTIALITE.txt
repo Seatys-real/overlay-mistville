@@ -30,10 +30,15 @@ BASE LÉGALE : votre consentement (article 6.1.a du RGPD), retirable à tout mom
 TRAJET : les parties passent par un service Cloudflare, qui les garde jusqu'à ce que l'auteur les récupère sur son ordinateur,
 puis elles sont retirées de ce service. Comme pour tout site, votre adresse IP passe par les serveurs de Cloudflare pour
 acheminer l'envoi et limiter les abus. Le service de réception ne la stocke pas.
-DURÉE : les parties reçues sont gardées tant qu'elles servent à l'étude du jeu, 3 ans au plus. Les statistiques agrégées
-qui en sont tirées ne permettent plus de retrouver une partie et peuvent être conservées et publiées.
+Un index pseudonyme reste sur ce service après le retrait : empreinte de la partie, identifiant aléatoire de contributeur,
+versions, mois de difficulté, jour final, joueur expérimenté ou non, mois de réception. Il sert à reconnaître les doublons et
+à transmettre les demandes d'effacement. Il est supprimé avec vos contributions, et automatiquement au bout de 3 ans.
+DURÉE : les parties reçues sont gardées tant qu'elles servent à l'étude du jeu, 3 ans au plus, puis supprimées
+automatiquement. Les statistiques agrégées qui en sont tirées ne permettent plus de retrouver une partie et peuvent être
+conservées et publiées.
 VOS DROITS : décocher la case arrête tout envoi et vide la file d'attente. Le bouton « Effacer mes contributions »
-supprime ce que vous avez envoyé, y compris la copie de l'auteur, sauf ce qui est déjà fondu dans les statistiques agrégées.
+supprime ce que vous avez envoyé du service de réception, puis la copie de l'auteur à son traitement suivant, sauf ce qui est
+déjà fondu dans les statistiques agrégées.
 Pour toute demande (accès,
 rectification, effacement) : contact ci-dessus. Vous pouvez saisir la CNIL (cnil.fr).
 MINEURS : si vous avez moins de 15 ans, n'activez pas le partage sans l'accord d'un parent.
@@ -76,10 +81,14 @@ LEGAL BASIS: your consent (GDPR article 6(1)(a)), which you can withdraw at any 
 ROUTE: runs go through a Cloudflare service, which holds them until the author retrieves them on their computer; they are
 then removed from that service. As with any website, your IP address passes through Cloudflare's servers to deliver the
 submission and limit abuse. The receiving service does not store it.
-RETENTION: received runs are kept as long as they are useful for studying the game, 3 years at most. Aggregated statistics
-derived from them no longer allow finding a run and may be kept and published.
+A pseudonymous index stays on that service after removal: run hash, random contributor ID, versions, difficulty month, final
+day, experienced player or not, month received. It is used to spot duplicates and to pass on deletion requests. It is deleted
+with your contributions, and automatically after 3 years.
+RETENTION: received runs are kept as long as they are useful for studying the game, 3 years at most, then deleted
+automatically. Aggregated statistics derived from them no longer allow finding a run and may be kept and published.
 YOUR RIGHTS: unticking the box stops all sending and empties the queue. The "Delete my contributions" button removes what
-you sent, including the author's copy, except what is already merged into aggregated statistics. For any request (access,
+you sent from the receiving service, then the author's copy at their next processing run, except what is already merged into
+aggregated statistics. For any request (access,
 correction, erasure), use the
 contact above. You may complain to your data protection authority.
 MINORS: if you are under 15, do not turn on sharing without a parent's agreement.
