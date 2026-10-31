@@ -1,0 +1,71 @@
+﻿OVERLAY MISTVILLE - LICENCE D'UTILISATION (English below)
+Copyright (c) 2026 Seatys-real. Tous droits réservés.
+
+Overlay Mistville est un logiciel gratuit mais pas un logiciel libre : son code source n'est pas public.
+
+1. Ce que vous pouvez faire
+   Télécharger le logiciel et l'utiliser gratuitement, pour votre usage personnel, sans limite de durée.
+
+2. Ce que vous ne pouvez pas faire
+   - le vendre, le louer, le faire payer, ou l'inclure dans un produit ou un service payant ;
+   - le redistribuer autrement que par un lien vers sa page officielle ;
+   - le publier ou le présenter sous un autre nom, ou retirer les mentions de cette licence ;
+   - le décompiler ou le désassembler, sauf dans les cas où la loi l'autorise malgré cette interdiction.
+
+3. Aucune garantie
+   Le logiciel est fourni tel quel, sans garantie. Dans toute la mesure permise par la loi, l'auteur n'est pas responsable
+   des dommages liés à son utilisation.
+
+4. Outil non officiel et risque de sanction
+   Overlay Mistville n'est ni approuvé par XD, ses partenaires ou les créateurs de Torchlight: Infinite, ni affilié à eux.
+   Les noms cités appartiennent à leurs propriétaires. L'éditeur du jeu interdit certains outils tiers et peut sanctionner
+   des comptes. Rien ne garantit que cet overlay soit toléré : vous l'utilisez sous votre responsabilité.
+
+5. Données
+   Le partage de données est facultatif et désactivé par défaut : voir CONFIDENTIALITE.txt.
+
+6. Composants tiers
+   Le logiciel contient des composants soumis à leur propre licence : voir TIERS.txt et le dossier licences.
+
+7. Fin de la licence
+   Cette licence prend fin si vous ne la respectez pas. Elle est soumise au droit français, sans priver le consommateur
+   des protections de son pays de résidence.
+
+Contact : https://github.com/Seatys-real/overlay-mistville/issues
+
+--------------------------------------------------------------------------------------------------------------------
+
+OVERLAY MISTVILLE - END USER LICENCE
+Copyright (c) 2026 Seatys-real. All rights reserved.
+
+Overlay Mistville is free of charge but it is not free software: its source code is not public.
+
+1. What you may do
+   Download the software and use it free of charge, for your personal use, with no time limit.
+
+2. What you may not do
+   - sell it, rent it, charge for it, or include it in a paid product or service;
+   - redistribute it other than by a link to its official page;
+   - publish or present it under another name, or remove the notices of this licence;
+   - decompile or disassemble it, except where the law allows this despite this prohibition.
+
+3. No warranty
+   The software is provided as is, without warranty. To the fullest extent permitted by law, the author is not liable for
+   any damage related to its use.
+
+4. Unofficial tool and risk of sanctions
+   Overlay Mistville is neither endorsed by nor affiliated with XD, its partners or the makers of Torchlight: Infinite.
+   Names mentioned belong to their owners. The game's publisher forbids some third-party tools and may sanction accounts.
+   Nothing guarantees this overlay is tolerated: you use it at your own responsibility.
+
+5. Data
+   Data sharing is optional and off by default: see CONFIDENTIALITE.txt.
+
+6. Third-party components
+   The software contains components under their own licences: see TIERS.txt and the licences folder.
+
+7. Termination
+   This licence ends if you do not comply with it. It is governed by French law, without depriving consumers of the
+   protections of their country of residence.
+
+Contact: https://github.com/Seatys-real/overlay-mistville/issues

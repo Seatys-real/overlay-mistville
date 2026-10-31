@@ -1,0 +1,90 @@
+﻿OVERLAY MISTVILLE - CONFIDENTIALITÉ (English below)
+
+Responsable : Seatys-real, https://github.com/Seatys-real/overlay-mistville/issues
+
+CE QUE L'APPLICATION LIT SUR VOTRE PC
+- Le fichier journal du jeu (UE_game.log), pour suivre la partie. Il n'est jamais envoyé : il contient des informations
+  de compte que l'application ne garde pas. Seuls la version du jeu et les événements de Mistville en sont tirés.
+- La zone de l'écran occupée par le jeu, pour lire les écrans de choix. Les images sont temporaires et restent sur votre PC.
+- La configuration de Steam, seulement pour trouver le dossier du jeu.
+L'application n'explore pas vos dossiers, ne lit pas la mémoire du jeu, ne modifie aucun fichier du jeu et ne simule ni
+clavier ni souris.
+
+CE QUI EST GARDÉ SUR VOTRE PC
+Vos parties, réglages et apprentissages sont dans %LOCALAPPDATA%\OverlayMistville. Supprimer ce dossier efface tout.
+
+LE PARTAGE EST FACULTATIF ET DÉSACTIVÉ PAR DÉFAUT
+Rien n'est envoyé tant que vous n'avez pas coché la case dans « Partage des données ». Sans partage, l'overlay marche
+exactement pareil. Le bouton « Voir un exemple exact » montre le contenu d'un envoi.
+
+Si vous acceptez, à la fin de chaque partie sont envoyés : les plateaux (types et positions des cases vues, coûts), les
+ressources (Sanité, pièces, jour, mois), les objets tenus et proposés, vos décisions et les options affichées, la version
+du jeu et de l'overlay, si vous vous êtes déclaré joueur expérimenté, et un identifiant de contributeur aléatoire, sans lien
+avec votre compte.
+
+Ne sont jamais envoyés : le fichier journal, votre nom, votre compte, votre SteamID, votre adresse e-mail, vos fichiers,
+vos captures d'écran, les dates et heures de jeu, des informations sur votre PC.
+
+POURQUOI : mesurer les règles de Mistville et rendre les simulations plus justes, pour tous les joueurs de l'overlay.
+BASE LÉGALE : votre consentement (article 6.1.a du RGPD), retirable à tout moment.
+TRAJET : les parties passent par un service Cloudflare, qui les garde jusqu'à ce que l'auteur les récupère sur son ordinateur,
+puis elles sont retirées de ce service. Comme pour tout site, votre adresse IP passe par les serveurs de Cloudflare pour
+acheminer l'envoi et limiter les abus. Le service de réception ne la stocke pas.
+DURÉE : les parties reçues sont gardées tant qu'elles servent à l'étude du jeu, 3 ans au plus. Les statistiques agrégées
+qui en sont tirées ne permettent plus de retrouver une partie et peuvent être conservées et publiées.
+VOS DROITS : décocher la case arrête tout envoi et vide la file d'attente. Le bouton « Effacer mes contributions »
+supprime ce que vous avez envoyé, y compris la copie de l'auteur, sauf ce qui est déjà fondu dans les statistiques agrégées.
+Pour toute demande (accès,
+rectification, effacement) : contact ci-dessus. Vous pouvez saisir la CNIL (cnil.fr).
+MINEURS : si vous avez moins de 15 ans, n'activez pas le partage sans l'accord d'un parent.
+
+MISES À JOUR QUOTIDIENNES
+Pour améliorer ses conseils, l'overlay télécharge chaque jour des fichiers de données (jamais de code) depuis la page GitHub
+du projet. Aucune information sur vous n'est envoyée ; comme pour toute page web, GitHub voit votre adresse IP. Vous pouvez
+refuser au premier lancement ou couper cela à tout moment dans le menu de l'icône.
+
+--------------------------------------------------------------------------------------------------------------------
+
+OVERLAY MISTVILLE - PRIVACY
+
+Controller: Seatys-real, https://github.com/Seatys-real/overlay-mistville/issues
+
+WHAT THE APP READS ON YOUR PC
+- The game's log file (UE_game.log), to follow the run. It is never sent: it contains account information the app does
+  not keep. Only the game version and Mistville events are taken from it.
+- The screen area used by the game, to read choice screens. Images are temporary and stay on your PC.
+- Steam's configuration, only to find the game folder.
+The app does not browse your folders, does not read the game's memory, does not change any game file and does not simulate
+keyboard or mouse input.
+
+WHAT STAYS ON YOUR PC
+Your runs, settings and learned data are in %LOCALAPPDATA%\OverlayMistville. Deleting this folder erases everything.
+
+SHARING IS OPTIONAL AND OFF BY DEFAULT
+Nothing is sent until you tick the box in "Data sharing". Without sharing, the overlay works exactly the same. The "See an
+exact example" button shows the content of a submission.
+
+If you agree, at the end of each run the following is sent: boards (types and positions of seen tiles, costs), resources
+(Sanity, coins, day, month), items held and offered, your decisions and the options shown, game and overlay version, and a
+whether you declared yourself an experienced player, and a random contributor ID that is not linked to your account.
+
+Never sent: the log file, your name, account, SteamID, email address, files, screenshots, the dates and times you played,
+or information about your PC.
+
+PURPOSE: measure Mistville's rules and make simulations more accurate, for all overlay users.
+LEGAL BASIS: your consent (GDPR article 6(1)(a)), which you can withdraw at any time.
+ROUTE: runs go through a Cloudflare service, which holds them until the author retrieves them on their computer; they are
+then removed from that service. As with any website, your IP address passes through Cloudflare's servers to deliver the
+submission and limit abuse. The receiving service does not store it.
+RETENTION: received runs are kept as long as they are useful for studying the game, 3 years at most. Aggregated statistics
+derived from them no longer allow finding a run and may be kept and published.
+YOUR RIGHTS: unticking the box stops all sending and empties the queue. The "Delete my contributions" button removes what
+you sent, including the author's copy, except what is already merged into aggregated statistics. For any request (access,
+correction, erasure), use the
+contact above. You may complain to your data protection authority.
+MINORS: if you are under 15, do not turn on sharing without a parent's agreement.
+
+DAILY UPDATES
+To improve its advice, the overlay downloads data files (never code) from the project's GitHub page every day. Nothing about
+you is sent; as with any web page, GitHub sees your IP address. You can decline on first launch or turn this off at any time
+in the tray icon menu.
