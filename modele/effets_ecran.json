@@ -1,0 +1,969 @@
+{
+ "date": "2026-10-31 03:31",
+ "objets": {
+  "\"Explorer\"": {
+   "niveau1": "All Celts are explorable today Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "nombres differents",
+   "wiki": [
+    "Reveal 5 random Cells when a new day begins",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:36:45"
+  },
+  "Alchemy Catalyst": {
+   "niveau1": "You can enhance Old Stuff 1 additional time in the Alchemy Workshop",
+   "niveau2": "You can enhance Old Stuff for unlimited times in the Alchemy Workshop",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "You can enhance Old Stuff 1 additional time in the Alchemy Workshop",
+    "You can enhance Old Stuff for unlimited times in the Alchemy Workshop"
+   ],
+   "exemple": "20261029-233724-263_S6ChooseRelic.png"
+  },
+  "Alchemy Potion Cured Meat": {
+   "niveau1": "Upgrade 1 random Old Stuff Remaining: 1",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Upgrade 1 random Old Stuff",
+    ""
+   ],
+   "exemple": "20261029-235327-543_S6ChooseItem.png"
+  },
+  "Alchemy Potion Pickles": {
+   "niveau1": "Upgrade 1 specific Old Stuff Remaining: 1",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "Upgrade 1 specific Old Stuff",
+    ""
+   ],
+   "exemple": "20261029-234602-455_S6ChooseItem.png"
+  },
+  "Alchemy Workshop Rainbow Candy": {
+   "niveau1": "Preview the Alche Work location (if possible) Remaining:2",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "Preview the Alchemy Workshop 's location (if possible)",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:37:43"
+  },
+  "Amulet: Anorexia": {
+   "niveau1": "The speciat effect of Bad Omen Stele - Anorexia can't take effect",
+   "niveau2": "The special effect of Bad Omen Stele - Anorexia becomes: Every time you consume Food, there is a 30% chance that the Food's auantitv will not be reduced.",
+   "vu": 10,
+   "statut": "identique",
+   "wiki": [
+    "The special effect of Bad Omen Stele - Anorexia can't take effect",
+    "The special effect of Bad Omen Stele - Anorexia becomes: Every time you consume Food, there is a 30% chance that the Food's quantity will not be reduced."
+   ],
+   "exemple": "20261029-215424-343_S6ChooseRelic.png"
+  },
+  "Amulet: Anxiety": {
+   "niveau1": "The special effect of Bad Omen Stele - Anxiety can't take effect",
+   "niveau2": "Removing Bad Omen Steles - Anxiety will no longer cost Sanity",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "The special effect of Bad Omen Stele - Anxiety can't take effect",
+    "Removing Bad Omen Steles - Anxiety will no longer cost Sanity"
+   ],
+   "exemple": "20261029-215718-601_S6ChooseRelic.png"
+  },
+  "Amulet: Blindness": {
+   "niveau1": "The special effect of Bad Omen Stele - Blindness can't take effect",
+   "niveau2": "The special effect of Bad Omen Stele - Blindness becomes: The 8 Cells around it will be regarded as exnlorable.",
+   "vu": 5,
+   "statut": "identique",
+   "wiki": [
+    "The special effect of Bad Omen Stele - Blindness can't take effect",
+    "The special effect of Bad Omen Stele - Blindness becomes: The 8 Cells around it will be regarded as explorable."
+   ],
+   "exemple": "20261029-215718-601_S6ChooseRelic.png"
+  },
+  "Amulet: Poverty": {
+   "niveau1": "The special effect of Bad Omen Stele - Poverty can't take effect",
+   "niveau2": "The special effect of Bad Omen Steles - Poverty becomes: You obtain 8 Coins every time you reveal a Cell.",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "The special effect of Bad Omen Stele - Poverty can't take effect",
+    "The special effect of Bad Omen Steles - Poverty becomes: You obtain 8 Coins every time you reveal a Cell."
+   ],
+   "exemple": "en direct 2026-10-30 19:10:00"
+  },
+  "Anorexic Black Goat's Horn": {
+   "niveau1": "Steles - Anorexia",
+   "niveau2": "Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Anorexia 200 Buy",
+   "vu": 5,
+   "statut": "nombres differents",
+   "wiki": [
+    "The Bad Omen Steles appeared are more likely to be Bad Omen Steles - Anorexia",
+    "The Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Anorexia"
+   ],
+   "exemple": "en direct 2026-10-30 09:27:08"
+  },
+  "Appels Envoyer des fichiers": {
+   "niveau1": "Configurez votre appareil mobile pour afficher Ies appels, Ies messages et I'activité récente dans I'écran de démarrage. Sélectionner I'appareil Androidw iPhone'",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "nouveau",
+   "wiki": null,
+   "exemple": "en direct 2026-10-30 09:01:24"
+  },
+  "Apprentice Alchemist's Gloves": {
+   "niveau1": "Prices for upgrading Old Stuff in Alchemy Workshop -20%",
+   "niveau2": "Prices for upgrading Old Stuff in Alchemy Workshop",
+   "vu": 1,
+   "statut": "nombres differents",
+   "wiki": [
+    "Prices for upgrading Old Stuff in Alchemy Workshop -20%",
+    "Prices for upgrading Old Stuff in Alchemy Workshop -40%"
+   ],
+   "exemple": "20261030-004353-734_S6ChooseRelic.png"
+  },
+  "Baby Bear": {
+   "niveau1": "For every 1 Bad Omen Stele Vou remove, recover 10 Sanity",
+   "niveau2": "For every 1 Bad Omen Stele you remove, recover 20 Sanity",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "For every 1 Bad Omen Stele you remove, recover 10 Sanity",
+    "For every 1 Bad Omen Stele you remove, recover 20 Sanity"
+   ],
+   "exemple": "20261030-002932-370_S6ChooseRelic.png"
+  },
+  "Bad Omen Stele Skewered": {
+   "niveau1": "The Sanity cost of exp_ Cells around a Bad Omen Stele -10 Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "pas de texte wiki",
+   "wiki": null,
+   "exemple": "en direct 2026-10-30 23:40:49"
+  },
+  "Banker's IOU": {
+   "niveau1": "The number of Coins vou obtain from Banks increases",
+   "niveau2": "The number of Coins you obtain from Banks greatly increases",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "The number of Coins you obtain from Banks increases",
+    "The number of Coins you obtain from Banks greatly increases"
+   ],
+   "exemple": "20261029-234035-735_S6ChooseRelic.png"
+  },
+  "Beak Mask": {
+   "niveau1": "Sanity cost for exploring a Cell -1",
+   "niveau2": "Sanity cost of exploring a Cell -3",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Sanity cost for exploring a Cell -1",
+    "Sanity cost of exploring a Cell -3"
+   ],
+   "exemple": "20261029-234734-956_S6ChooseRelic.png"
+  },
+  "Blind Black Goat's Horn": {
+   "niveau1": "Steles - Blindness",
+   "niveau2": "Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Blindness 140 Buy",
+   "vu": 1,
+   "statut": "nombres differents",
+   "wiki": [
+    "The Bad Omen Steles appeared are more likely to be Bad Omen Steles - Blindness",
+    "The Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Blindness"
+   ],
+   "exemple": "en direct 2026-10-30 19:16:42"
+  },
+  "Burnt Map": {
+   "niveau1": "Preview 2 random Celts when new dav begins",
+   "niveau2": "Preview 4 random Cells when a new day begins",
+   "vu": 5,
+   "statut": "identique",
+   "wiki": [
+    "Preview 2 random Cells when a new day begins",
+    "Preview 4 random Cells when a new day begins"
+   ],
+   "exemple": "20261029-233015-227_S6ChooseRelic.png"
+  },
+  "Butter-Grilled Fish Eye": {
+   "niveau1": "Preview 1 Cell Remaining:3 Buy",
+   "niveau2": "",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Preview 1 Cell",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:00:57"
+  },
+  "Cartographer's Medicine Bottle": {
+   "niveau1": "Recover 5 Sanity when revealing a previewed rett",
+   "niveau2": "Max Sanity +5 when revealing a previewed Cell",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Recover 5 Sanity when revealing a previewed Cell",
+    "Max Sanity +5 when revealing a previewed Cell"
+   ],
+   "exemple": "20261029-234638-699_S6ChooseRelic.png"
+  },
+  "Cartographer's Purse": {
+   "niveau1": "Obtain 2S C 0111% revealinz . p'-evievuetf Ceu Buy",
+   "niveau2": "Obtain 25 Coins when revealing a previewed Cell",
+   "vu": 2,
+   "statut": "nombres differents",
+   "wiki": [
+    "Obtain 12 Coins when revealing a previewed Cell",
+    "Obtain 25 Coins when revealing a previewed Cell"
+   ],
+   "exemple": "en direct 2026-10-30 09:09:35"
+  },
+  "Cartographer's Quill": {
+   "niveau1": "50% chance to preview 1 additional random Celt when revealing a previewed Celt",
+   "niveau2": "Preview 1 additional random Cell when revealing a previewed Cell",
+   "vu": 8,
+   "statut": "identique",
+   "wiki": [
+    "50% chance to preview 1 additional random Cell when revealing a previewed Cell",
+    "Preview 1 additional random Cell when revealing a previewed Cell"
+   ],
+   "exemple": "20261029-233554-555_S6ChooseRelic.png"
+  },
+  "Cartographer's Stool": {
+   "niveau1": "Recover 6 Sanity when revealing a previewed Celt",
+   "niveau2": "Recover 12 Sanity when revealing a previewed Cell",
+   "vu": 5,
+   "statut": "identique",
+   "wiki": [
+    "Recover 6 Sanity when revealing a previewed Cell",
+    "Recover 12 Sanity when revealing a previewed Cell"
+   ],
+   "exemple": "20261030-001255-531_S6ChooseRelic.png"
+  },
+  "Chief Trader's Statue": {
+   "niveau1": "the Trader",
+   "niveau2": "You can spend Coins to refresh the Old Stuff and Food sold by the MistviUe Trader. The cost of refreshine them 100 Buy",
+   "vu": 18,
+   "statut": "nombres differents",
+   "wiki": [
+    "You can spend Coins to refresh the Old Stuff and Food sold by the Mistville Trader",
+    "You can spend Coins to refresh the Old Stuff and Food sold by the Mistville Trader.\\nThe cost of refreshing them decreases greatly."
+   ],
+   "exemple": "20261030-001308-492_S6ChooseRelic.png"
+  },
+  "Clock Tower Sleeping Candy": {
+   "niveau1": "Preview the location of the Clock Tower Remaining: I Buy",
+   "niveau2": "",
+   "vu": 13,
+   "statut": "identique",
+   "wiki": [
+    "Preview the location of the Clock Tower",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:34:34"
+  },
+  "Coin-Filled Golden Goblet": {
+   "niveau1": "Obtain additional Coins equal to 12% of your current Coins when a new dav begins",
+   "niveau2": "Obtain additional Coins equal to 25% of your current Coins when a new day begins",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Obtain additional Coins equal to 12% of your current Coins when a new day begins",
+    "Obtain additional Coins equal to 25% of your current Coins when a new day begins"
+   ],
+   "exemple": "20261029-233724-263_S6ChooseRelic.png"
+  },
+  "Delicious Condiment": {
+   "niveau1": "Every time vo\" consume Food, you recover 5 Sanity",
+   "niveau2": "Every time you consume Food, your Max Sanity +5",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "Every time you consume Food, you recover 5 Sanity",
+    "Every time you consume Food, your Max Sanity +5"
+   ],
+   "exemple": "20261029-234616-828_S6ChooseRelic.png"
+  },
+  "Doctor's Lantern": {
+   "niveau1": "May Sanity +00",
+   "niveau2": "Max Sanity +40 Max Sanity +10 when a new day begins",
+   "vu": 7,
+   "statut": "nombres differents",
+   "wiki": [
+    "Max Sanity +40",
+    "Max Sanity +40\\nMax Sanity +10 when a new day begins"
+   ],
+   "exemple": "20261029-235214-202_S6ChooseRelic.png"
+  },
+  "Dried Mistfish": {
+   "niveau1": "Randomly recover 20-100 Sanity Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Randomly recover 20-100 Sanity",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:02:22"
+  },
+  "Filth Eater's Dinner": {
+   "niveau1": "Stele",
+   "niveau2": "60% chance to obtain 1 random Food when removing a Bad Omen Stele 300 Buy",
+   "vu": 6,
+   "statut": "nombres differents",
+   "wiki": [
+    "30% chance to obtain 1 random Food when removing a Bad Omen Stele",
+    "60% chance to obtain 1 random Food when removing a Bad Omen Stele"
+   ],
+   "exemple": "20261030-003801-639_S6ChooseRelic.png"
+  },
+  "Filth Eater's Map": {
+   "niveau1": "50% chance to preview 1 random Celt when removing a Bad Omen Stele",
+   "niveau2": "100% chance to preview 1 random Cell when removing a Bad Omen Stele",
+   "vu": 5,
+   "statut": "identique",
+   "wiki": [
+    "50% chance to preview 1 random Cell when removing a Bad Omen Stele",
+    "100% chance to preview 1 random Cell when removing a Bad Omen Stele"
+   ],
+   "exemple": "20261030-000702-806_S6ChooseRelic.png"
+  },
+  "Filth Eater's Token": {
+   "niveau1": "10% chance to obtain 1 random Old Stuff when removing a Bad Omen Stele",
+   "niveau2": "20% chance to obtain 1 random Old Stuff when removing a Bad Omen Stele",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "10% chance to obtain 1 random Old Stuff when removing a Bad Omen Stele",
+    "20% chance to obtain 1 random Old Stuff when removing a Bad Omen Stele"
+   ],
+   "exemple": "20261029-235651-140_S6ChooseRelic.png"
+  },
+  "Filth Eater's Wages": {
+   "niveau1": "50% chance to obtain additionat Coins when removing a Bad Omen Stele",
+   "niveau2": "100% chance to obtain additional Coins when removing a Bad Omen Stele",
+   "vu": 1,
+   "statut": "identique",
+   "wiki": [
+    "50% chance to obtain additional Coins when removing a Bad Omen Stele",
+    "100% chance to obtain additional Coins when removing a Bad Omen Stele"
+   ],
+   "exemple": "20261029-235918-375_S6ChooseRelic.png"
+  },
+  "Fireflies in Oil": {
+   "niveau1": "Reveal 1 Cell Remaining: I Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Reveal 1 Cell",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:06:02"
+  },
+  "Firefly Sashimi": {
+   "niveau1": "Reveal 1 random Cell that is not sealed off Remaining:3 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Reveal 1 random Cell that is not sealed off",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 08:54:17"
+  },
+  "Fluffy Old Blanket": {
+   "niveau1": "Recover 8% May Sanity when a new dav begins",
+   "niveau2": "Recover 16% Max Sanity when a new day begins",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Recover 8% Max Sanity when a new day begins",
+    "Recover 16% Max Sanity when a new day begins"
+   ],
+   "exemple": "20261029-234734-956_S6ChooseRelic.png"
+  },
+  "Fluorescent Moth Soup": {
+   "niveau1": "Reveal the Clock Tower (Valid only when the Cell of the Clock Tower is not sealed off) Remaining: I 250 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Reveal the Clock Tower (Valid only when the Cell of the Clock Tower is not sealed off)",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 23:46:54"
+  },
+  "Fragrant Cat Food": {
+   "niveau1": "Remove 1 revealed Bad Omen Stele Remaining: I Buy",
+   "niveau2": "",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "Remove 1 revealed Bad Omen Stele",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:04:35"
+  },
+  "Golden Caviar": {
+   "niveau1": "Obtain 20 Coins Remaining:2",
+   "niveau2": "",
+   "vu": 1,
+   "statut": "identique",
+   "wiki": [
+    "Obtain 20 Coins",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 20:10:15"
+  },
+  "Golden Frog Eggs": {
+   "niveau1": "Obtain ao-200 Coins Remaining: 1",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "nombres differents",
+   "wiki": [
+    "Obtain 40-200 Coins",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 23:50:47"
+  },
+  "Golden Worm Cheese": {
+   "niveau1": "Lose 50% of your current Sanity. For every 1 Sanity you lose for this, you gain 2 Coins Remaining: 1",
+   "niveau2": "",
+   "vu": 10,
+   "statut": "identique",
+   "wiki": [
+    "Lose 50% of your current Sanity. For every 1 Sanity you lose for this, you gain 2 Coins",
+    ""
+   ],
+   "exemple": "20261029-234905-108_S6ChooseItem.png"
+  },
+  "Grilled Tentacle": {
+   "niveau1": "Recover 20 Sanity Remaining: I Buy",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "Recover 20 Sanity",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 20:15:50"
+  },
+  "Grilled White Truffle": {
+   "niveau1": "Lose au your Coins. For every Coins you lose for this, you recover 1 Sanity Remaining: I Buy",
+   "niveau2": "",
+   "vu": 5,
+   "statut": "nombres differents",
+   "wiki": [
+    "Lose all your Coins. For every 4 Coins you lose for this, you recover 1 Sanity",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:10:55"
+  },
+  "Guild Medal - Old Stuff": {
+   "niveau1": "200",
+   "niveau2": "Prices of Old Stuff sold by the Mistville Trader -60%",
+   "vu": 2,
+   "statut": "nombres differents",
+   "wiki": [
+    "Prices of Old Stuff sold by the Mistville Trader -30%",
+    "Prices of Old Stuff sold by the Mistville Trader -60%"
+   ],
+   "exemple": "en direct 2026-10-30 19:09:02"
+  },
+  "Half a Piece of Golden Lava Cake": {
+   "niveau1": "Lose au your Coins. For every 5 Coins you lose for this, your Max Sanity +1 Remaining: I Buy",
+   "niveau2": "",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Lose all your Coins. For every 5 Coins you lose for this, your Max Sanity +1",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:08:56"
+  },
+  "Half a Piece of Raspberry Pie": {
+   "niveau1": "Lose au your Coins. For every 20 Coins you lose for this, you will preview 1 random Cell Remaining: I Buy",
+   "niveau2": "",
+   "vu": 1,
+   "statut": "identique",
+   "wiki": [
+    "Lose all your Coins. For every 20 Coins you lose for this, you will preview 1 random Cell",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:04:33"
+  },
+  "Healthy Condiment": {
+   "niveau1": "Every time vo\" consume Food, you recover 6 Sanity",
+   "niveau2": "Every time you consume Food, you recover 12 Sanity",
+   "vu": 11,
+   "statut": "identique",
+   "wiki": [
+    "Every time you consume Food, you recover 6 Sanity",
+    "Every time you consume Food, you recover 12 Sanity"
+   ],
+   "exemple": "20261029-232957-415_S6ChooseRelic.png"
+  },
+  "Lard Potion": {
+   "niveau1": "Generate Banks on 3 random blank Cells Remaining: 1",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Generate Banks on 3 random blank Cells",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 23:41:22"
+  },
+  "Map: Alchemy Workshop": {
+   "niveau1": "You can preview the locations of Alchemy Workshops",
+   "niveau2": "Alchemy Workshops will be revealed",
+   "vu": 21,
+   "statut": "identique",
+   "wiki": [
+    "You can preview the locations of Alchemy Workshops",
+    "All Alchemy Workshops will be revealed"
+   ],
+   "exemple": "20261029-233015-227_S6ChooseRelic.png"
+  },
+  "Map: Bad Omen Stele - Anorexia": {
+   "niveau1": "Preview the location ofl Bad Omen Stele - Anorexia when a new day begins",
+   "niveau2": "You can preview the locations of all Bad Omen Steles - Anorexia",
+   "vu": 8,
+   "statut": "nombres differents",
+   "wiki": [
+    "Preview the location of 1 Bad Omen Stele - Anorexia when a new day begins",
+    "You can preview the locations of all Bad Omen Steles - Anorexia"
+   ],
+   "exemple": "20261029-215259-791_S6ChooseRelic.png"
+  },
+  "Map: Bad Omen Stele - Anxiety": {
+   "niveau1": "Preview the location of 1 Bad Omen Stele - Anxiety when a new day begins",
+   "niveau2": "You can preview the locations of all Bad Omen Steles - Anxiety",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Preview the location of 1 Bad Omen Stele - Anxiety when a new day begins",
+    "You can preview the locations of all Bad Omen Steles - Anxiety"
+   ],
+   "exemple": "20261029-215424-343_S6ChooseRelic.png"
+  },
+  "Map: Bad Omen Stele - Blindness": {
+   "niveau1": "Preview the location of 1 Bad Omen Stele - Blindness when a new day begins",
+   "niveau2": "You can preview the locations of all Bad Omen Steles - Blindness",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Preview the location of 1 Bad Omen Stele - Blindness when a new day begins",
+    "You can preview the locations of all Bad Omen Steles - Blindness"
+   ],
+   "exemple": "20261029-234525-727_S6ChooseRelic.png"
+  },
+  "Map: Bad Omen Stele - Poverty": {
+   "niveau1": "new day begins",
+   "niveau2": "You can preview the locations of all Bad Omen Steles - Poverty 100 Buy",
+   "vu": 31,
+   "statut": "nombres differents",
+   "wiki": [
+    "Preview the location of 1 Bad Omen Stele - Poverty when a new day begins",
+    "You can preview the locations of all Bad Omen Steles - Poverty"
+   ],
+   "exemple": "20261030-002235-280_S6ChooseRelic.png"
+  },
+  "Map: Bank": {
+   "niveau1": "Bank Banks",
+   "niveau2": "You can preview the locations of all Banks",
+   "vu": 2,
+   "statut": "nombres differents",
+   "wiki": [
+    "Preview the location of 1 Bank when a new day begins",
+    "You can preview the locations of all Banks"
+   ],
+   "exemple": "en direct 2026-10-30 09:00:47"
+  },
+  "Map: Food": {
+   "niveau1": "You can preview the locations of all Food",
+   "niveau2": "All Food will be revealed",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "You can preview the locations of all Food",
+    "All Food will be revealed"
+   ],
+   "exemple": "20261029-215456-370_S6ChooseRelic.png"
+  },
+  "Map: Mistville Trader": {
+   "niveau1": "vo\" can preview the locations of Mistville Traders",
+   "niveau2": "MistviUe Traders will be revealed",
+   "vu": 13,
+   "statut": "identique",
+   "wiki": [
+    "You can preview the locations of Mistville Traders",
+    "All Mistville Traders will be revealed"
+   ],
+   "exemple": "20261029-215259-791_S6ChooseRelic.png"
+  },
+  "Map: Sanatorium": {
+   "niveau1": "Preview the location of 1 Sanatorium when a new dav begins",
+   "niveau2": "You can preview the locations of Sanatoriums",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Preview the location of 1 Sanatorium when a new day begins",
+    "You can preview the locations of all Sanatoriums"
+   ],
+   "exemple": "20261029-233554-555_S6ChooseRelic.png"
+  },
+  "Map: Unknown Old Stuff": {
+   "niveau1": "You can preview the locations of Old Stuff",
+   "niveau2": "All Old Stuff will be revealed",
+   "vu": 8,
+   "statut": "identique",
+   "wiki": [
+    "You can preview the locations of all Old Stuff",
+    "All Old Stuff will be revealed"
+   ],
+   "exemple": "20261029-234647-919_S6ChooseRelic.png"
+  },
+  "Marinated Mistfish": {
+   "niveau1": "Max Sanity +10 Remaining: I Buy",
+   "niveau2": "",
+   "vu": 18,
+   "statut": "identique",
+   "wiki": [
+    "Max Sanity +10",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:09:43"
+  },
+  "May appear at a random location in Mistville. Fragrant Cat": {
+   "niveau1": "Remove 1 revealed Bad Omen Stele Remaining: I Buy",
+   "niveau2": "",
+   "vu": 1,
+   "statut": "nouveau",
+   "wiki": null,
+   "exemple": "en direct 2026-10-30 09:04:36"
+  },
+  "Mr. Misfortune": {
+   "niveau1": "For every 1 Bad Omen Stele VOL' remove, recover 8 Sanity.",
+   "niveau2": "For every 1 Bad Omen Stele you remove, your Max Sanity +8.",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "For every 1 Bad Omen Stele you remove, recover 8 Sanity.",
+    "For every 1 Bad Omen Stele you remove, your Max Sanity +8."
+   ],
+   "exemple": "20261030-000651-559_S6ChooseRelic.png"
+  },
+  "Ms. Grumpy": {
+   "niveau1": "Sanity cost of removing a Bad Omen Stele -10",
+   "niveau2": "Sanity cost of removing a Bad Omen Stele -20.",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "Sanity cost of removing a Bad Omen Stele -10",
+    "Sanity cost of removing a Bad Omen Stele -20."
+   ],
+   "exemple": "20261029-233120-402_S6ChooseRelic.png"
+  },
+  "Mud-Boiled Sheep Eyes": {
+   "niveau1": "Preview the locations of au Bad Omen Steles (if any) Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Preview the locations of all Bad Omen Steles (if any)",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:09:47"
+  },
+  "Night Pudding": {
+   "niveau1": "From now on, the Sanity cost of removing a Bad Ornen Stele -5 Remaining: 1",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "nombres differents",
+   "wiki": [
+    "Obtain 2-5 Old Stuff",
+    ""
+   ],
+   "exemple": "20261029-233605-495_S6ChooseItem.png"
+  },
+  "Pig Liver Medicine Soup": {
+   "niveau1": "Generate Sanatoriums on 3 random blank Cells Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 6,
+   "statut": "identique",
+   "wiki": [
+    "Generate Sanatoriums on 3 random blank Cells",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 20:12:40"
+  },
+  "Poor Black Goat's Horn": {
+   "niveau1": "Steles - Poverty",
+   "niveau2": "The Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Poverty 200 Buy",
+   "vu": 7,
+   "statut": "nombres differents",
+   "wiki": [
+    "The Bad Omen Steles appeared are more likely to be Bad Omen Steles - Poverty",
+    "The Bad Omen Steles appeared are guaranteed to be Bad Omen Steles - Poverty"
+   ],
+   "exemple": "en direct 2026-10-30 19:27:22"
+  },
+  "Raven Broth": {
+   "niveau1": "1 revealed Bad Omen Stele becomes a Sanatorium Remaining: I Buy",
+   "niveau2": "",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "1 revealed Bad Omen Stele becomes a Blank Stele",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 08:54:20"
+  },
+  "Rich Pork Pate": {
+   "niveau1": "Quantity for 1 Food +1 (Does not apply to Rich Pork Pate) Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Quantity for 1 Food +1 (Does not apply to Rich Pork Pate)",
+    ""
+   ],
+   "exemple": "20261029-234522-614_S6ChooseItem.png"
+  },
+  "Rotten Raven Bisque": {
+   "niveau1": "1 revealed Bad Ornen Stele becomes a Bank Remaining: 1",
+   "niveau2": "",
+   "vu": 9,
+   "statut": "nombres differents",
+   "wiki": [
+    "All Bad Omen Steles become Blank Steles today",
+    ""
+   ],
+   "exemple": "20261029-233007-734_S6ChooseItem.png"
+  },
+  "Sanatorium Contract": {
+   "niveau1": "Sanatorium restores 7 additional Sanity for vo\"",
+   "niveau2": "Sanatorium additionally grants +7 Max Sanity",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Sanatorium restores 7 additional Sanity for you",
+    "Sanatorium additionally grants +7 Max Sanity"
+   ],
+   "exemple": "20261029-233747-090_S6ChooseRelic.png"
+  },
+  "Scavenger's Pliers": {
+   "niveau1": "The number of available Old Stuff choices in each Old Stuff Cell +1 (Revealed Cells will not be affected)",
+   "niveau2": "The number of available Old Stuff choices in each Old Stuff Cell +1 (Revealed Cells will not",
+   "vu": 8,
+   "statut": "nombres differents",
+   "wiki": [
+    "The number of available Old Stuff choices in each Old Stuff Cell +1 (Revealed Cells will not be affected)",
+    "The number of available Old Stuff choices in each Old Stuff Cell +1 (Revealed Cells will not be affected)\\nYou can obtain Old Stuff 2 times from Old Stuff Cells"
+   ],
+   "exemple": "20261030-000015-728_S6ChooseRelic.png"
+  },
+  "Secret Recipe Canned Meat": {
+   "niveau1": "Remove all revealed Bad Omen Steles. Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Remove all revealed Bad Omen Steles .",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 08:54:14"
+  },
+  "Shopping List": {
+   "niveau1": "(Revealed ret's will not be affected)",
+   "niveau2": "Quantity of Old Stuff and Food sold by the Mistville Trader +1 (Revealed Cells will not be",
+   "vu": 7,
+   "statut": "nombres differents",
+   "wiki": [
+    "Quantity of Old Stuff and Food sold by the Mistville Trader +1 (Revealed Cells will not be affected)",
+    "Quantity of Old Stuff and Food sold by the Mistville Trader +1 (Revealed Cells will not be affected)\\nOld Stuff and Food sold by the Mistville Trader will be automatically replenished"
+   ],
+   "exemple": "20261029-234504-482_S6ChooseRelic.png"
+  },
+  "Skewered Crows": {
+   "niveau1": "The Sanity cost of exploring the Cells around a Bad Omen Stele -10 Remaining: I 100 Buy",
+   "niveau2": "",
+   "vu": 15,
+   "statut": "pas de texte wiki",
+   "wiki": null,
+   "exemple": "en direct 2026-10-30 23:40:40"
+  },
+  "Skewered Fish Eyes": {
+   "niveau1": "Preview 3 random Cells Remaining:2 Buy",
+   "niveau2": "",
+   "vu": 12,
+   "statut": "identique",
+   "wiki": [
+    "Preview 3 random Cells",
+    ""
+   ],
+   "exemple": "20261030-001030-974_S6ChooseItem.png"
+  },
+  "Sleeping Spice": {
+   "niveau1": "Recover 20 Sanity when a new dav begins",
+   "niveau2": "Recover 40 Sanity when a new day begins",
+   "vu": 4,
+   "statut": "identique",
+   "wiki": [
+    "Recover 20 Sanity when a new day begins",
+    "Recover 40 Sanity when a new day begins"
+   ],
+   "exemple": "20261029-235313-276_S6ChooseRelic.png"
+  },
+  "Special Protection Pass": {
+   "niveau1": "Sanatorium restores 10 additional Sanity for you",
+   "niveau2": "Sanatorium restores 20 additional Sanity for you",
+   "vu": 8,
+   "statut": "identique",
+   "wiki": [
+    "Sanatorium restores 10 additional Sanity for you",
+    "Sanatorium restores 20 additional Sanity for you"
+   ],
+   "exemple": "20261029-215456-370_S6ChooseRelic.png"
+  },
+  "Spider Silk Noodles": {
+   "niveau1": "From now on. Sanity cost for exploring a Ceu -1 Remaining: 1",
+   "niveau2": "",
+   "vu": 1,
+   "statut": "pas de texte wiki",
+   "wiki": null,
+   "exemple": "20261030-002315-447_S6ChooseItem.png"
+  },
+  "Sterling Silver Lunch Box": {
+   "niveau1": "Food Slot Upper Limit +2",
+   "niveau2": "Food Slot Upper Limit +2 You can obtain Food 2 times from Food Cells",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Food Slot Upper Limit +2",
+    "Food Slot Upper Limit +2\\nYou can obtain Food 2 times from Food Cells"
+   ],
+   "exemple": "20261030-002324-977_S6ChooseRelic.png"
+  },
+  "Super Concentrated Sour Soup": {
+   "niveau1": "Remove 1 random revealed Bad Omen Stele Remaining:2 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Remove 1 Ruins",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:04:55"
+  },
+  "Tentacle Cream Soup": {
+   "niveau1": "Sanity cost for exploring a Cell -2 today Remaining: I Buy",
+   "niveau2": "",
+   "vu": 12,
+   "statut": "identique",
+   "wiki": [
+    "Sanity cost for exploring a Cell -2 today",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:02:27"
+  },
+  "Thousand-Layer Sandwich": {
+   "niveau1": "Fill your remaining Food slots with random Food Remaining: I 150 Buy",
+   "niveau2": "",
+   "vu": 3,
+   "statut": "identique",
+   "wiki": [
+    "Fill your remaining Food slots with random Food",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 20:15:53"
+  },
+  "Trader's Sugar Cube": {
+   "niveau1": "Preview the Mistville Trader's location (if possible) Remaining:2 Buy",
+   "niveau2": "",
+   "vu": 2,
+   "statut": "identique",
+   "wiki": [
+    "Preview the Mistville Trader 's location (if possible)",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 09:22:36"
+  },
+  "Wally's Grapes": {
+   "niveau1": "Randomly obtain 10-50 Max Sanity Remaining: I 150 Buy",
+   "niveau2": "",
+   "vu": 4,
+   "statut": "nombres differents",
+   "wiki": [
+    "Recover all Sanity",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:19:25"
+  },
+  "Walnut Pudding": {
+   "niveau1": "Recover 15% Max Sanity Remaining: I Buy",
+   "niveau2": "",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "Recover 15% Max Sanity",
+    ""
+   ],
+   "exemple": "20261029-215709-530_S6Shop.png"
+  },
+  "Watchful Purse": {
+   "niveau1": "obtained",
+   "niveau2": "From now on, you recover 1 Sanity for every 5 Coins obtained 250 Buy",
+   "vu": 17,
+   "statut": "nombres differents",
+   "wiki": [
+    "From now on, you recover 1 Sanity for every 10 Coins obtained",
+    "From now on, you recover 1 Sanity for every 5 Coins obtained"
+   ],
+   "exemple": "20261029-215150-403_S6ChooseRelic.png"
+  },
+  "Water of Blithe": {
+   "niveau1": "All revealed Bad Omen Steles will become Banks Remaining: I 200 Buy",
+   "niveau2": "",
+   "vu": 5,
+   "statut": "identique",
+   "wiki": [
+    "All revealed Bad Omen Steles will become Banks",
+    ""
+   ],
+   "exemple": "20261030-003542-727_S6ChooseItem.png"
+  },
+  "Water of Delight": {
+   "niveau1": "All revealed Bad Omen Steles will become Sanatoriums Remaining: I 200 Buy",
+   "niveau2": "",
+   "vu": 1,
+   "statut": "identique",
+   "wiki": [
+    "All revealed Bad Omen Steles will become Sanatoriums",
+    ""
+   ],
+   "exemple": "en direct 2026-10-30 19:07:51"
+  },
+  "Wriggling Money Jar": {
+   "niveau1": "From now on, you recover 1 Sanity for every 10 Coins obtained",
+   "niveau2": "From now on, your Max Sanity +1 for every 10 Coins obtained",
+   "vu": 7,
+   "statut": "identique",
+   "wiki": [
+    "From now on, you recover 1 Sanity for every 10 Coins obtained",
+    "From now on, your Max Sanity +1 for every 10 Coins obtained"
+   ],
+   "exemple": "20261029-215150-403_S6ChooseRelic.png"
+  }
+ }
+}

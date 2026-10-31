@@ -1,0 +1,573 @@
+{
+ "date": "2026-10-31 03:31",
+ "parties": 21,
+ "objets": {
+  "(regles de base)": {
+   "n": 1742,
+   "conformes": 1728,
+   "verdict": "conforme",
+   "ecart_median": {
+    "pieces": 6
+   },
+   "exemples": [
+    "jour 1 ('c', 6) type 6002 : reel (0, 0, 73), simule (0, 0, 41)",
+    "jour 4 ('c', 11) type 6002 : reel (0, 0, 67), simule (0, 0, 32)",
+    "jour 4 explorer 22 : reel (-6, 0, 11), simule (-6, 0, -8)"
+   ]
+  },
+  "Beak Mask": {
+   "n": 412,
+   "conformes": 411,
+   "verdict": "conforme",
+   "ecart_median": {
+    "pieces": -12
+   },
+   "exemples": [
+    "jour 7 explorer 18 : reel (-8, 0, 0), simule (-8, 0, 12)"
+   ]
+  },
+  "Thousand-Layer Sandwich": {
+   "n": 2,
+   "conformes": 2,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Butter-Grilled Fish Eye": {
+   "n": 12,
+   "conformes": 12,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Skewered Fish Eyes": {
+   "n": 12,
+   "conformes": 12,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Fragrant Cat Food": {
+   "n": 5,
+   "conformes": 5,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Doctor's Lantern": {
+   "n": 22,
+   "conformes": 14,
+   "verdict": "different",
+   "ecart_median": {
+    "max": 10,
+    "san": 3,
+    "pieces": 36
+   },
+   "exemples": [
+    "fin du jour 7 : reel (80, 0, 0), simule (80, 10, 0)",
+    "fin du jour 8 : reel (86, 20, 33), simule (80, 10, 33)",
+    "fin du jour 10 : reel (64, 0, 36), simule (61, 0, 0)"
+   ]
+  },
+  "Wriggling Money Jar": {
+   "n": 541,
+   "conformes": 486,
+   "verdict": "conforme",
+   "ecart_median": {
+    "san": 2,
+    "max": 3,
+    "pieces": 6
+   },
+   "exemples": [
+    "jour 2 ('c', 16) type 6002 : reel (4, 3, 48), simule (1, 0, 32)",
+    "jour 3 ('c', 17) type 6002 : reel (5, 0, 49), simule (4, 0, 41)",
+    "jour 4 ('c', 11) type 6002 : reel (4, 4, 43), simule (0, 4, 44)"
+   ]
+  },
+  "Ms. Grumpy": {
+   "n": 47,
+   "conformes": 47,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Cartographer's Quill": {
+   "n": 85,
+   "conformes": 73,
+   "verdict": "conforme",
+   "ecart_median": {
+    "san": 2
+   },
+   "exemples": [
+    "jour 3 explorer 20 : reel (-3, 0, 0), simule (-5, 0, 0)",
+    "jour 3 explorer 21 : reel (-3, 0, 0), simule (-5, 0, 0)",
+    "jour 3 explorer 16 : reel (-3, 0, 0), simule (-5, 0, 0)"
+   ]
+  },
+  "Amulet: Anxiety": {
+   "n": 14,
+   "conformes": 14,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Coin-Filled Golden Goblet": {
+   "n": 11,
+   "conformes": 9,
+   "verdict": "conforme",
+   "ecart_median": {
+    "max": 10,
+    "san": 6
+   },
+   "exemples": [
+    "fin du jour 7 : reel (80, 0, 0), simule (80, 10, 0)",
+    "fin du jour 8 : reel (86, 20, 33), simule (80, 10, 33)"
+   ]
+  },
+  "Banker's IOU": {
+   "n": 39,
+   "conformes": 39,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Special Protection Pass": {
+   "n": 66,
+   "conformes": 66,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Fluffy Old Blanket": {
+   "n": 15,
+   "conformes": 8,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 6,
+    "max": 10
+   },
+   "exemples": [
+    "fin du jour 7 : reel (69, 0, 0), simule (63, 0, 0)",
+    "fin du jour 10 : reel (69, 0, 0), simule (63, 0, 0)",
+    "fin du jour 9 : reel (77, 0, 0), simule (65, 0, 0)"
+   ]
+  },
+  "Filth Eater's Wages": {
+   "n": 18,
+   "conformes": 17,
+   "verdict": "conforme",
+   "ecart_median": {
+    "pieces": 4
+   },
+   "exemples": [
+    "jour 8 ('s', 18) type 2004 : reel (-24, 0, 50), simule (-24, 0, 32)"
+   ]
+  },
+  "Sleeping Spice": {
+   "n": 10,
+   "conformes": 10,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Filth Eater's Map": {
+   "n": 19,
+   "conformes": 19,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Watchful Purse": {
+   "n": 239,
+   "conformes": 239,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Mr. Misfortune": {
+   "n": 7,
+   "conformes": 7,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Cartographer's Stool": {
+   "n": 4,
+   "conformes": 0,
+   "verdict": "different",
+   "ecart_median": {
+    "san": -5
+   },
+   "exemples": [
+    "jour 3 explorer 5 : reel (-5, 0, 0), simule (0, 0, 0)",
+    "jour 3 explorer 6 : reel (-5, 0, 0), simule (1, 0, 0)",
+    "jour 5 explorer 6 : reel (-6, 0, 0), simule (0, 0, 0)"
+   ]
+  },
+  "Sanatorium Contract": {
+   "n": 9,
+   "conformes": 9,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Secret Recipe Canned Meat": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Alchemy Potion Cured Meat": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Rich Pork Pate": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Amulet: Anorexia": {
+   "n": 46,
+   "conformes": 40,
+   "verdict": "conforme",
+   "ecart_median": {
+    "max": 2,
+    "san": 63,
+    "pieces": -3
+   },
+   "exemples": [
+    "jour 2 manger Marinated Mistfish : reel (10, 13, 0, 0), simule (10, 11, 0, 0)",
+    "jour 8 manger Alchemy Workshop Rainbow Candy : reel (69, 0, 0, 1), simule (6, 0, 0, 0)",
+    "jour 2 manger Marinated Mistfish : reel (10, 13, 0, 0), simule (10, 11, 0, 0)"
+   ]
+  },
+  "Marinated Mistfish": {
+   "n": 6,
+   "conformes": 4,
+   "verdict": "different",
+   "ecart_median": {
+    "max": 2
+   },
+   "exemples": [
+    "jour 2 manger Marinated Mistfish : reel (10, 13, 0, 0), simule (10, 11, 0, 0)",
+    "jour 2 manger Marinated Mistfish : reel (10, 13, 0, 0), simule (10, 11, 0, 0)"
+   ],
+   "correction": {
+    "san": 10,
+    "max": 11,
+    "pieces": 0
+   }
+  },
+  "Walnut Pudding": {
+   "n": 6,
+   "conformes": 5,
+   "verdict": "conforme",
+   "ecart_median": {
+    "san": -6
+   },
+   "exemples": [
+    "jour 5 manger Walnut Pudding : reel (12, 0, 0, 0), simule (18, 0, 0, 0)"
+   ]
+  },
+  "Grilled White Truffle": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Baby Bear": {
+   "n": 9,
+   "conformes": 9,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Golden Worm Cheese": {
+   "n": 6,
+   "conformes": 6,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Dried Mistfish": {
+   "n": 2,
+   "conformes": 2,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Tentacle Cream Soup": {
+   "n": 3,
+   "conformes": 3,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Banker's Chocolate Coin": {
+   "n": 2,
+   "conformes": 2,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Super Concentrated Sour Soup": {
+   "n": 2,
+   "conformes": 0,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 10
+   },
+   "exemples": [
+    "jour 3 manger Super Concentrated Sour Soup : reel (10, 0, 0, 0), simule (0, 0, 0, 0)",
+    "jour 4 manger Super Concentrated Sour Soup : reel (10, 0, 0, 0), simule (0, 0, 0, 0)"
+   ]
+  },
+  "Rotten Raven Bisque": {
+   "n": 4,
+   "conformes": 4,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Amulet: Poverty": {
+   "n": 253,
+   "conformes": 240,
+   "verdict": "conforme",
+   "ecart_median": {
+    "san": 2,
+    "pieces": -12
+   },
+   "exemples": [
+    "jour 5 explorer 3 : reel (-4, 0, 0), simule (-6, 0, 0)",
+    "jour 5 explorer 15 : reel (-4, 0, 0), simule (-6, 0, 0)",
+    "jour 5 explorer 2 : reel (-4, 0, 0), simule (-6, 0, 0)"
+   ]
+  },
+  "Fireflies in Oil": {
+   "n": 2,
+   "conformes": 2,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Raven Broth": {
+   "n": 2,
+   "conformes": 2,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Wally's Grapes": {
+   "n": 2,
+   "conformes": 0,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 5,
+    "max": 5
+   },
+   "exemples": [
+    "jour 12 manger Wally's Grapes : reel (29, 29, 0, 0), simule (24, 24, 0, 0)",
+    "jour 3 manger Wally's Grapes : reel (18, 18, 0, 0), simule (24, 24, 0, 0)"
+   ],
+   "correction": {
+    "san": 24,
+    "max": 24,
+    "pieces": 0
+   }
+  },
+  "Golden Caviar": {
+   "n": 4,
+   "conformes": 4,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Half a Piece of Raspberry Pie": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Cartographer's Purse": {
+   "n": 13,
+   "conformes": 12,
+   "verdict": "conforme",
+   "ecart_median": {
+    "pieces": -12
+   },
+   "exemples": [
+    "jour 7 explorer 18 : reel (-8, 0, 0), simule (-8, 0, 12)"
+   ]
+  },
+  "Healthy Condiment": {
+   "n": 26,
+   "conformes": 20,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 64,
+    "pieces": -3,
+    "max": 10
+   },
+   "exemples": [
+    "jour 8 manger Alchemy Workshop Rainbow Candy : reel (69, 0, 0, 1), simule (6, 0, 0, 0)",
+    "jour 8 manger Firefly Sashimi : reel (6, 0, -3, 1), simule (6, 0, 0, 0)",
+    "jour 10 manger Alchemy Workshop Rainbow Candy : reel (71, 0, 0, 0), simule (6, 0, 0, 1)"
+   ]
+  },
+  "Alchemy Workshop Rainbow Candy": {
+   "n": 6,
+   "conformes": 4,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 65
+   },
+   "exemples": [
+    "jour 8 manger Alchemy Workshop Rainbow Candy : reel (69, 0, 0, 1), simule (6, 0, 0, 0)",
+    "jour 10 manger Alchemy Workshop Rainbow Candy : reel (71, 0, 0, 0), simule (6, 0, 0, 1)"
+   ]
+  },
+  "Grilled Tentacle": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Water of Blithe": {
+   "n": 1,
+   "conformes": 1,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Firefly Sashimi": {
+   "n": 6,
+   "conformes": 4,
+   "verdict": "different",
+   "ecart_median": {
+    "pieces": -3,
+    "san": 64,
+    "max": 10
+   },
+   "exemples": [
+    "jour 8 manger Firefly Sashimi : reel (6, 0, -3, 1), simule (6, 0, 0, 0)",
+    "jour 4 manger Firefly Sashimi : reel (70, 10, 0, 1), simule (6, 0, 0, 1)"
+   ]
+  },
+  "Lard Potion": {
+   "n": 3,
+   "conformes": 3,
+   "verdict": "conforme",
+   "ecart_median": {},
+   "exemples": []
+  },
+  "Golden Frog Eggs": {
+   "n": 2,
+   "conformes": 0,
+   "verdict": "different",
+   "ecart_median": {
+    "san": -3,
+    "pieces": 46
+   },
+   "exemples": [
+    "jour 2 manger Golden Frog Eggs : reel (0, 0, 151, 0), simule (3, 0, 105, 0)",
+    "jour 9 manger Golden Frog Eggs : reel (12, 0, 59, 0), simule (19, 0, 105, 0)"
+   ],
+   "correction": {
+    "san": 3,
+    "max": 0,
+    "pieces": 105
+   }
+  },
+  "Mud-Boiled Sheep Eyes": {
+   "n": 2,
+   "conformes": 1,
+   "verdict": "different",
+   "ecart_median": {
+    "san": 86,
+    "max": 10
+   },
+   "exemples": [
+    "jour 8 manger Mud-Boiled Sheep Eyes : reel (92, 10, 0, 4), simule (6, 0, 0, 5)"
+   ]
+  }
+ },
+ "jamais_vus": [
+  "\"Banker\"",
+  "\"Cartographer\"",
+  "\"Diviner\"",
+  "\"Explorer\"",
+  "Alchemy Catalyst",
+  "Alchemy Potion Pickles",
+  "Amulet: Blindness",
+  "Anorexic Black Goat's Horn",
+  "Anxious Black Goat's Horn",
+  "Apprentice Alchemist's Gloves",
+  "Black Crow Bonsai",
+  "Blind Black Goat's Horn",
+  "Brain in a Jar",
+  "Burnt Map",
+  "Cartographer's Medicine Bottle",
+  "Chief Trader's Statue",
+  "Clock Tower Sleeping Candy",
+  "Coin Soup",
+  "Delicious Condiment",
+  "Dreamfish Sashimi",
+  "Egg of the Deep Mist",
+  "Egg of the Shallow Mist",
+  "Explorer's Glasses",
+  "Explorer's Meat & Rice",
+  "Eyeball Candy of Kin",
+  "Filth Eater's Dinner",
+  "Filth Eater's Token",
+  "Fluorescent Moth Soup",
+  "Forgotten Brown Sugar",
+  "Gourmet's Knife and Fork",
+  "Guild Medal - Food",
+  "Guild Medal - Old Stuff",
+  "Half a Piece of Golden Lava Cake",
+  "Luxurious Golden Sauce",
+  "Map: Alchemy Workshop",
+  "Map: Bad Omen Stele - Anorexia",
+  "Map: Bad Omen Stele - Anxiety",
+  "Map: Bad Omen Stele - Blindness",
+  "Map: Bad Omen Stele - Poverty",
+  "Map: Bank",
+  "Map: Food",
+  "Map: Mistville Trader",
+  "Map: Sanatorium",
+  "Map: Unknown Old Stuff",
+  "Night Pudding",
+  "Pan-Fried Mushroom Slices",
+  "Pig Liver Medicine Soup",
+  "Pink Walnut",
+  "Poor Black Goat's Horn",
+  "Resident's Old Bowl",
+  "Resident's Wooden Box",
+  "Rock Candy of Misfortune",
+  "Salt-Baked Pig Snout",
+  "Sanatorium Sugar Pill",
+  "Scavenger's Boots",
+  "Scavenger's Pliers",
+  "Shopping List",
+  "Smooth Frosting",
+  "Spider Silk Noodles",
+  "Spoiled Sauce",
+  "Sterling Silver Lunch Box",
+  "Torn Map",
+  "Trader's Sugar Cube",
+  "Uncanny Tales: Gaze",
+  "Uncanny Tales: Secret",
+  "Warm Tomato Sauce",
+  "Water of Delight",
+  "White Crow Bonsai"
+ ]
+}
