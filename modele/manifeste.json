@@ -1,21 +1,21 @@
 {
- "version": 2,
+ "version": 3,
  "date": "2026-11-02",
  "overlay_min": "0.10.0",
  "derniere_version": "0.10.3",
  "partage_url": "https://overlay-mistville.overlay-mistville-recepteur.workers.dev",
  "fichiers": {
   "modele_calibre.json": {
-   "sha256": "1ea310d7767ca0367b96384e290928ff0cf1b03bf780305fa53264d3c72adc2f",
-   "taille": 5829
+   "sha256": "dcecb858a963d65ad116cf099e6f0d70b04d17fe41b913cf8883dd8da7ced3b9",
+   "taille": 6725
   },
   "politique.json": {
    "sha256": "0a1ee79af2f45b601997c6708f5d11db086bcad564bb27ee93804e17ae08a1fe",
    "taille": 1279
   },
   "frequences_objets.json": {
-   "sha256": "90b1993be0226ea0f5373df364c84a9149a967cb2ac3dc816e0c2bb2ee9248fd",
-   "taille": 4141
+   "sha256": "84628c08a56ae7a2de2491efc1b73c1f305a23b0f6ef09ecd08427ddb7735977",
+   "taille": 4831
   },
   "valeurs_simulees.json": {
    "sha256": "03a9ce4999d9330c69bbc77efd24d34b749b4b1790c311bb4467edc56eb73822",
