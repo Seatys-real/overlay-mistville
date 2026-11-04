@@ -74,6 +74,11 @@ and has banned accounts: nothing guarantees this overlay is tolerated. Use it at
 **Does it work with the game in Chinese or another language?** Not yet: it reads the English text on screen. The overlay itself
 is available in English, French and Simplified Chinese.
 
+**I play on the Chinese TapTap client, or outside Steam.** Since 0.10.5 the overlay also looks for the game's log in the folder of
+the running game and in the official launcher's folders. If the **LOG** light says "Game log not found", choose the game's
+`UE_game.log` (game folder, `UE_game\TorchLight\Saved\Logs`) with *Choose the game log...* in the gear menu. Not tested on
+TapTap yet: a [test report](../../issues/new?template=test_report.yml) helps. The game must still be in English.
+
 **Is it free? Where is the source code?** It is free. The source code is private: this page only hosts the releases, each with
 its SHA-256 hash.
 
@@ -135,6 +140,10 @@ sans partage, et vous pouvez tout arrêter et effacer à tout moment. Voir [conf
   décidez.
 - **Marche-t-il avec le jeu en chinois ou dans une autre langue ?** Pas encore : il lit le texte anglais à l'écran. L'overlay
   lui-même est en anglais, en français ou en chinois simplifié.
+- **Je joue avec le client chinois TapTap, ou hors de Steam.** Depuis la 0.10.5, l'overlay cherche aussi le journal dans le
+  dossier du jeu en marche et dans ceux du lanceur officiel. Si le voyant **LOG** affiche « Journal du jeu introuvable »,
+  choisissez le fichier `UE_game.log` du jeu (dossier du jeu, `UE_game\TorchLight\Saved\Logs`) avec « Choisir le journal du
+  jeu... » dans la roue crantée. Pas encore essayé sur TapTap : un rapport de test aide. Le jeu doit rester en anglais.
 - **Est-il gratuit ?** Oui. Le code source est privé : cette page ne contient que les versions publiées, chacune avec son
   empreinte SHA-256.
 
@@ -166,4 +175,7 @@ Voir [licence](LICENCE.txt).
   某些第三方工具，并已封禁过账号，无法保证本工具会被容忍。使用风险由你自行承担。
 - **它会替我玩吗？** 不会。它只建议下一步，并显示每个选择能多坚持或少坚持几天，由你决定。
 - **游戏是中文或其他语言时能用吗？** 暂时不能：它读取屏幕上的英文文字。覆盖层本身提供英文、法文和简体中文界面。
+- **我使用国服 TapTap 客户端（或其他非 Steam 安装）**：从 0.10.5 起，覆盖层还会在运行中游戏的文件夹和官方启动器的文件夹中查找日志。
+  如果 **LOG** 指示灯显示「找不到游戏日志」，请在齿轮菜单中点击「选择游戏日志...」，选择游戏的 `UE_game.log`（游戏文件夹中的
+  `UE_game\TorchLight\Saved\Logs`）。尚未在 TapTap 上测试：欢迎提交测试报告。游戏仍需设置为英文。
 - **免费吗？** 免费。源代码不公开：本页面只发布版本文件，每个版本都附有 SHA-256 校验值。
