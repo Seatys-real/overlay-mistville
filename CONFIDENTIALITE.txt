@@ -1,4 +1,4 @@
-﻿OVERLAY MISTVILLE - CONFIDENTIALITÉ (English below)
+﻿OVERLAY MISTVILLE - CONFIDENTIALITÉ (English below / 简体中文见下文)
 
 Responsable : Seatys-real, https://github.com/Seatys-real/overlay-mistville/issues
 
@@ -18,9 +18,10 @@ Rien n'est envoyé tant que vous n'avez pas coché la case dans « Partage des d
 exactement pareil. Le bouton « Voir un exemple exact » montre le contenu d'un envoi.
 
 Si vous acceptez, à la fin de chaque partie sont envoyés : les plateaux (types et positions des cases vues, coûts), les
-ressources (Sanité, pièces, jour, mois), les objets tenus et proposés, vos décisions et les options affichées, la version
-du jeu et de l'overlay, si vous vous êtes déclaré joueur expérimenté, et un identifiant de contributeur aléatoire, sans lien
-avec votre compte.
+ressources (Sanité, pièces, jour, mois), les objets tenus et proposés, l'empreinte des icônes d'objets que votre overlay a
+apprises (64 pastilles de couleur par objet, jamais l'image : elle sert à ce que les overlays des autres joueurs reconnaissent
+l'objet sans qu'on le leur montre), vos décisions et les options affichées, la version du jeu et de l'overlay, si vous vous
+êtes déclaré joueur expérimenté, et un identifiant de contributeur aléatoire, sans lien avec votre compte.
 
 Ne sont jamais envoyés : le fichier journal, votre nom, votre compte, votre SteamID, votre adresse e-mail, vos fichiers,
 vos captures d'écran, les dates et heures de jeu, des informations sur votre PC.
@@ -70,7 +71,9 @@ Nothing is sent until you tick the box in "Data sharing". Without sharing, the o
 exact example" button shows the content of a submission.
 
 If you agree, at the end of each run the following is sent: boards (types and positions of seen tiles, costs), resources
-(Sanity, coins, day, month), items held and offered, your decisions and the options shown, game and overlay version, and a
+(Sanity, coins, day, month), items held and offered, the fingerprint of the item icons your overlay has learned (64 color
+dots per item, never the image: it lets other players' overlays recognize the item without being shown it), your decisions
+and the options shown, game and overlay version, and a
 whether you declared yourself an experienced player, and a random contributor ID that is not linked to your account.
 
 Never sent: the log file, your name, account, SteamID, email address, files, screenshots, the dates and times you played,
@@ -97,3 +100,44 @@ DAILY UPDATES
 To improve its advice, the overlay downloads data files (never code) from the project's GitHub page every day. Nothing about
 you is sent; as with any web page, GitHub sees your IP address. You can decline on first launch or turn this off at any time
 in the tray icon menu.
+
+--------------------------------------------------------------------------------------------------------------------
+
+OVERLAY MISTVILLE - 隐私说明（简体中文）
+
+负责人：Seatys-real，https://github.com/Seatys-real/overlay-mistville/issues
+
+应用程序在你的电脑上读取的内容
+- 游戏日志文件（UE_game.log），用于跟踪对局。它绝不会被发送：其中包含应用程序不会保留的账号信息。只提取游戏版本和 Mistville 事件。
+- 屏幕上显示游戏的区域，用于读取选择界面。图像是临时的，只保留在你的电脑上。
+- Steam 配置，仅用于找到游戏文件夹。
+应用程序不会浏览你的文件夹，不会读取游戏内存，不会修改任何游戏文件，也不会模拟键盘或鼠标输入。
+
+保留在你电脑上的内容
+你的对局、设置和学习数据位于 %LOCALAPPDATA%\OverlayMistville。删除此文件夹即可清除全部内容。
+
+共享是可选的，默认关闭
+在你勾选“数据共享”中的选项之前，不会发送任何内容。不共享时，覆盖层的功能完全相同。“查看实际示例”按钮会显示一次发送的内容。
+
+如果你同意，每局结束时会发送：棋盘（已看到地块的类型和位置、消耗）、资源（理智、金币、天数、月份）、持有和提供的物品、你的覆盖层已学会的物品图标特征
+（每个物品 64 个色点，绝不是图片本身；用于让其他玩家的覆盖层无需展示即可识别物品）、你的决定和显示的选项、游戏和覆盖层版本、
+你是否声明自己是有经验的玩家，以及一个与你账号无关的随机贡献者 ID。
+
+绝不会发送：日志文件、你的姓名、账号、SteamID、电子邮箱、文件、屏幕截图、游戏日期和时间、关于你电脑的信息。
+
+目的：测量 Mistville 的规则，让模拟更准确，惠及所有覆盖层用户。
+法律依据：你的同意（GDPR 第 6(1)(a) 条），你可以随时撤回。
+传输路径：对局数据经过 Cloudflare 服务保存，直到作者将其取回到自己的电脑，然后从该服务中移除。与任何网站一样，你的 IP 地址会经过 Cloudflare 的服务器，
+用于传送数据和限制滥用。接收服务不会存储它。
+移除后，该服务上会保留一个假名索引：对局哈希、随机贡献者 ID、版本、难度月份、最终天数、是否为有经验的玩家、接收月份。它用于识别重复内容和传递删除请求。
+它会随你的贡献一起删除，并在 3 年后自动删除。
+保留期限：收到的对局数据在有助于研究游戏期间保留，最长 3 年，然后自动删除。由此得出的汇总统计无法再找回某一局，可以保留和发布。
+你的权利：取消勾选会停止所有发送并清空队列。“删除我的贡献”按钮会从接收服务中删除你发送的内容，然后在作者下一次处理时删除作者的副本，已并入汇总统计的内容除外。
+如有任何请求（访问、更正、删除），请使用上方的联系方式。你也可以向你所在地的数据保护机构投诉。
+未成年人：如果你未满 15 岁，未经父母同意请勿开启共享。
+
+每日更新
+为了改进建议，覆盖层每天从项目的 GitHub 页面下载数据文件（绝不下载代码）。不会发送任何关于你的信息；与访问任何网页一样，GitHub 能看到你的 IP 地址。
+你可以在首次启动时拒绝，也可以随时在图标菜单中关闭。
+
+本译文仅供参考：如有差异，以法文版为准。

@@ -1,0 +1,49 @@
+name: "Test report / Rapport de test / 测试报告"
+description: "How the overlay works on your PC (2 minutes) / Comment l'overlay marche chez vous / 覆盖层在你电脑上的表现"
+title: "[Test] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing! **Never paste the game's log file**: it contains your account details. Screenshots are welcome (hide your character name).
+        Merci de tester ! **Ne collez jamais le fichier journal du jeu** : il contient les informations de votre compte. Les captures sont bienvenues (masquez le nom de votre personnage).
+        感谢测试！**请勿粘贴游戏日志文件**：其中包含你的账号信息。欢迎附上截图（请遮住角色名）。
+  - type: input
+    id: version
+    attributes:
+      label: "Overlay version / Version de l'overlay / 覆盖层版本"
+      description: "At the top of the gear menu / En haut du menu de la roue crantée / 齿轮菜单顶部"
+      placeholder: "0.10.4"
+    validations:
+      required: true
+  - type: input
+    id: ecran
+    attributes:
+      label: "Resolution and display mode / Résolution et mode d'affichage / 分辨率和显示模式"
+      placeholder: "2560x1440, borderless"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: "Windows version and language / Version et langue de Windows / Windows 版本和语言"
+      placeholder: "Windows 11, French + English language pack"
+  - type: input
+    id: processeur
+    attributes:
+      label: "Processor / Processeur / 处理器"
+      placeholder: "i5-12400F"
+  - type: dropdown
+    id: log
+    attributes:
+      label: "LOG light at the top of the overlay / Voyant LOG en haut de l'overlay / 覆盖层顶部的 LOG 指示灯"
+      options:
+        - "Green / Vert / 绿色"
+        - "Red / Rouge / 红色"
+        - "Not shown / Absent / 未显示"
+  - type: textarea
+    id: resultat
+    attributes:
+      label: "What worked, what did not / Ce qui marche, ce qui ne marche pas / 哪些可用，哪些不可用"
+    validations:
+      required: true
