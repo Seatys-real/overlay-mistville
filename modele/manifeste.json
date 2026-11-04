@@ -1,8 +1,8 @@
 {
- "version": 4,
- "date": "2026-11-03",
+ "version": 5,
+ "date": "2026-11-04",
  "overlay_min": "0.10.0",
- "derniere_version": "0.10.3",
+ "derniere_version": "0.10.4",
  "partage_url": "https://overlay-mistville.overlay-mistville-recepteur.workers.dev",
  "fichiers": {
   "modele_calibre.json": {
@@ -18,20 +18,20 @@
    "taille": 4865
   },
   "valeurs_simulees.json": {
-   "sha256": "03a9ce4999d9330c69bbc77efd24d34b749b4b1790c311bb4467edc56eb73822",
-   "taille": 33338
+   "sha256": "67d178feb1e438abd8a8c2a310de36366b3c4f918db1ebe43c3cc88254b46a8b",
+   "taille": 56747
   },
   "effets_mesures.json": {
-   "sha256": "3e50a8d9e52cd47258bfe8c45362fe821c0e5cf5f85ab8b8100efd2a4abb0580",
-   "taille": 13266
+   "sha256": "78a9f0f94f805b826dcca5fa8771f7a3b0957e26e8e09dc56b288e15919cf9d0",
+   "taille": 17977
   },
   "effets_ecran.json": {
-   "sha256": "8c3b4d27ef39e71dcc0a4394424cf030f2a4f57ff8beedcda656001a83e1453d",
-   "taille": 33386
+   "sha256": "d1a49ea2176cc39538128b52b732c224cfcca540caf5bfda62753aa0d006134e",
+   "taille": 93749
   },
   "prix_vus.json": {
-   "sha256": "6f36e6539e800dad17b9603e1a6601841f1ed024fbabdf03637fbc3e7687742e",
-   "taille": 2377
+   "sha256": "b926a4d81f274913a5e80c61a4a32f2f6af2c69bfb08c90c6e1a41740f88ff26",
+   "taille": 2312
   }
  }
 }
