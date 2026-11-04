@@ -71,8 +71,10 @@ and has banned accounts: nothing guarantees this overlay is tolerated. Use it at
 
 **Does it play for me?** No. It suggests a move and shows how many days each choice gains or loses; you decide and play.
 
-**Does it work with the game in Chinese or another language?** Not yet: it reads the English text on screen. The overlay itself
-is available in English, French and Simplified Chinese.
+**Does it work with the game in Chinese or another language?** Partly, since 0.10.7. Your items and the Trader are read from the
+game's log by their numbers, the same in every language, and so are the Old Stuff choices with a game written in Latin letters
+(French for example). Folklore events and Food choices are still read in English on screen: for all the advice, keep the game in
+English. The overlay itself is available in English, French and Simplified Chinese.
 
 **I play on the Chinese TapTap client, or outside Steam.** Since 0.10.5 the overlay also looks for the game's log in the folder of
 the running game and in the official launcher's folders. If the **LOG** light says "Game log not found", choose the game's
@@ -138,8 +140,10 @@ sans partage, et vous pouvez tout arrêter et effacer à tout moment. Voir [conf
   outils tiers et a sanctionné des comptes : rien ne garantit qu'il soit toléré. Vous l'utilisez à vos risques.
 - **Joue-t-il à ma place ?** Non : il conseille un coup et montre combien de jours chaque choix fait gagner ou perdre ; vous
   décidez.
-- **Marche-t-il avec le jeu en chinois ou dans une autre langue ?** Pas encore : il lit le texte anglais à l'écran. L'overlay
-  lui-même est en anglais, en français ou en chinois simplifié.
+- **Marche-t-il avec le jeu en chinois ou dans une autre langue ?** En partie, depuis la 0.10.7. Vos objets et le marchand sont
+  lus dans le journal du jeu par leur numéro, le même dans toutes les langues, et les choix d'Old Stuff aussi avec un jeu écrit en
+  lettres latines (en français par exemple). Les événements Folklore et les choix de Food sont encore lus en anglais à l'écran :
+  pour tous les conseils, gardez le jeu en anglais. L'overlay lui-même est en anglais, en français ou en chinois simplifié.
 - **Je joue avec le client chinois TapTap, ou hors de Steam.** Depuis la 0.10.5, l'overlay cherche aussi le journal dans le
   dossier du jeu en marche et dans ceux du lanceur officiel. Si le voyant **LOG** affiche « Journal du jeu introuvable »,
   choisissez le fichier `UE_game.log` du jeu (dossier du jeu, `UE_game\TorchLight\Saved\Logs`) avec « Choisir le journal du
@@ -174,7 +178,9 @@ Voir [licence](LICENCE.txt).
 - **会被封号吗？** 覆盖层只读取游戏日志文件和屏幕，然后在上方显示：不读取游戏内存，不修改任何游戏文件，也不会替你按键。但发行商禁止
   某些第三方工具，并已封禁过账号，无法保证本工具会被容忍。使用风险由你自行承担。
 - **它会替我玩吗？** 不会。它只建议下一步，并显示每个选择能多坚持或少坚持几天，由你决定。
-- **游戏是中文或其他语言时能用吗？** 暂时不能：它读取屏幕上的英文文字。覆盖层本身提供英文、法文和简体中文界面。
+- **游戏是中文或其他语言时能用吗？** 从 0.10.7 起部分可用：你的物品和商人按游戏日志中的编号读取，与语言无关；使用拉丁字母的语言
+  （例如法语）下，Old Stuff 选择也可用。Folklore 事件和 Food 选择仍在屏幕上按英文读取：要获得全部建议，请保持游戏为英文。覆盖层本身
+  提供英文、法文和简体中文界面。
 - **我使用国服 TapTap 客户端（或其他非 Steam 安装）**：从 0.10.5 起，覆盖层还会在运行中游戏的文件夹和官方启动器的文件夹中查找日志。
   如果 **LOG** 指示灯显示「找不到游戏日志」，请在齿轮菜单中点击「选择游戏日志...」，选择游戏的 `UE_game.log`（游戏文件夹中的
   `UE_game\TorchLight\Saved\Logs`）。尚未在 TapTap 上测试：欢迎提交测试报告。游戏仍需设置为英文。
