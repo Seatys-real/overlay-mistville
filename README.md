@@ -85,7 +85,12 @@ TapTap yet: a [test report](../../issues/new?template=test_report.yml) helps. Th
 its SHA-256 hash.
 
 **Windows SmartScreen or my antivirus warns me.** The file is not digitally signed yet. Only download it from this page and
-compare its SHA-256 hash; if your antivirus dislikes the .exe, use the .zip.
+compare its SHA-256 hash; if your antivirus dislikes the .exe, use the .zip. Some antiviruses (AVG CyberCapture, Avast) also
+check `ocr_win.exe`, the small helper that reads the text of the choice screens: since 0.10.11 the overlay no longer waits for it
+and takes the choices from the game's log meanwhile.
+
+**Can I show the overlay when I stream or share my screen?** Yes, since 0.10.11: it is visible in Discord, OBS and other screen
+sharing, and only hides for the instant it reads the game.
 
 ## Licence
 
